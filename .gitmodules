@@ -1,4 +1,4 @@
 [submodule "knitwearandotherfineapparel.github.io"]
-	path = knitwearandotherfineapparel.github.io
+	path = public
 	url = git@github.com:knitwearandotherfineapparel/knitwearandotherfineapparel.github.io.git
 	branch = master
