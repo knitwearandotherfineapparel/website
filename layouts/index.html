@@ -68,6 +68,9 @@
             <div id="middle-column">
                 <h2 id="column-name">Resources</h2>
                 <ul>
+                        <li>
+                            <a href="https://discord.gg/zBfZZM">Discord</a>
+                        </li>
                     {{ range (where .Site.RegularPages ".Params.column" "==" "middle") }}
                         <li>
                             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
